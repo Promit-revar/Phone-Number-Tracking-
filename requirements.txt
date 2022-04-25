@@ -1,0 +1,6 @@
+Flask==2.0.2
+folium==0.12.1.post1
+geopy==2.2.0
+opencage==2.0.0
+phonenumbers==8.12.46
+requests==2.25.1
